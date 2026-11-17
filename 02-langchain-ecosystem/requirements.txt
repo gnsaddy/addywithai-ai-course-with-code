@@ -1,0 +1,8 @@
+# Tested on 2026-11-10 with Python 3.13
+langchain==1.4.9
+langchain-openai==1.7.4
+langgraph==1.2.20
+langsmith==0.14.17
+# Langflow is a separate app (big install). Optional:
+#   uv pip install langflow      (tested: langflow 1.13.1)
+#   uv run langflow run          -> http://localhost:7860
