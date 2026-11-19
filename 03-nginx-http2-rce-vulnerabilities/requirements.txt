@@ -1,0 +1,1 @@
+# No packages needed: check_nginx.py uses the Python standard library only (Python 3.8+).

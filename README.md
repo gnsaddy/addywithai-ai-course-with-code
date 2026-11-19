@@ -22,3 +22,4 @@ Python 3.10 or newer.
 |---|---|---|
 | 1 | Your First AI Program in Python | [01-first-ai-program-python](01-first-ai-program-python) |
 | 2 | The LangChain Ecosystem | [02-langchain-ecosystem](02-langchain-ecosystem) |
+| 3 | Learn the NGINX HTTP/2 RCE Bugs (check_nginx.py, read-only version checker): checks if your NGINX version and HTTP/2 setting are exposed, no traffic sent (2026-11-19) | [03-nginx-http2-rce-vulnerabilities](03-nginx-http2-rce-vulnerabilities) |
